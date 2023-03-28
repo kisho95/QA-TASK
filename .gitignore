@@ -1,0 +1,11 @@
+/target/
+/allure-results/
+.project
+.classpath
+*.bat
+*.sh
+*.prefs
+/.idea/
+/using_SHAFT_ENGINE.iml
+/.temp-TC03_NotLoggedInDevicePurchaseWithPayment-classpath-arg-1654763760150.txt
+/.temp-TC09_CheckSuperWifiOptionInNoSubscribtionWithFTTC100mbWithTVOnly-classpath-arg-1656032816790.txt

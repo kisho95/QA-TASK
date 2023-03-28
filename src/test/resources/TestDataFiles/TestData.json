@@ -1,0 +1,35 @@
+{
+  "LitePackage": {
+    "Title": "LITE",
+    "Button": "Select",
+    "BahrainCurrency": "BHD",
+    "KwuaitCurrency": "KWD",
+    "VideoQuality": "HD",
+    "DeviceAccess": "1",
+    "RewindContent": "1 Day"
+  },
+  "ClassicPackage": {
+    "Title": "CLASSIC",
+    "Button": "Select",
+    "BahrainCurrency": "BHD",
+    "KwuaitCurrency": "KWD",
+    "VideoQuality": "Full HD",
+    "DeviceAccess": "4",
+    "RewindContent": "7 Days"
+  },
+  "PremiumPackage": {
+    "Title": "PREMIUM",
+    "Button": "Select",
+    "BahrainCurrency": "BHD",
+    "KwuaitCurrency": "KWD",
+    "VideoQuality": "4K",
+    "DeviceAccess": "8",
+    "RewindContent": "14 Days"
+  },
+  "Titles": {
+    "PlanTitle": "Choose your plan"
+  }
+}
+
+
+
